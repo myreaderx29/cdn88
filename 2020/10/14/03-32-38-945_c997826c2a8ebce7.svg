@@ -1,0 +1,55 @@
+<svg id="blog-section-jobs.svg" xmlns="http://www.w3.org/2000/svg" width="23.094" height="24.12" viewBox="0 0 23.094 24.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1f95c1;
+      }
+
+      .cls-2 {
+        fill: #41b9d1;
+      }
+
+      .cls-3 {
+        fill: #41bb9c;
+      }
+
+      .cls-4 {
+        fill: #27c11f;
+      }
+
+      .cls-5 {
+        fill: #40ea37;
+      }
+
+      .cls-6 {
+        fill: #fecb57;
+      }
+
+      .cls-7 {
+        fill: #fea157;
+      }
+
+      .cls-8 {
+        fill: #f27e18;
+      }
+
+      .cls-9 {
+        fill: #fc4349;
+      }
+
+      .cls-10 {
+        fill: #8367c9;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="16.547" cy="5.56" r="3.547"/>
+  <circle class="cls-2" cx="19.547" cy="9.56" r="3.547"/>
+  <circle class="cls-3" cx="19.547" cy="14.56" r="3.547"/>
+  <circle class="cls-4" cx="16.547" cy="18.56" r="3.547"/>
+  <circle class="cls-5" cx="11.547" cy="20.56" r="3.547"/>
+  <circle class="cls-6" cx="6.547" cy="18.56" r="3.547"/>
+  <circle class="cls-7" cx="3.547" cy="14.56" r="3.547"/>
+  <circle class="cls-8" cx="3.547" cy="9.56" r="3.547"/>
+  <circle class="cls-9" cx="6.547" cy="5.56" r="3.547"/>
+  <circle class="cls-10" cx="11.547" cy="3.56" r="3.547"/>
+</svg>
